@@ -20,6 +20,10 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
+
+# Added because of syntax error
+gem 'binding_of_caller'
+
 group :development do 
 	gem 'better_errors'
 	gem 'quiet_assets'
